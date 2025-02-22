@@ -4,3 +4,31 @@ The objective of this project is to develop a comprehensive and interactive Amaz
 
 ##Dataset Used
 -<a href="https://github.com/Gowtham-Rajavel/Amazon_Sasles_Dashboard-Power-BI-/tree/main/Amazon%20xlsx">Dataset</a>
+
+## Key Features of the Dashboard
+1.Sales Performance Analysis
+  Total sales revenue & units sold
+  Daily, weekly, and monthly sales trends
+  Product-wise and category-wise sales insights
+  
+2.Customer Insights
+  Buyer demographics & purchasing patterns
+  Customer retention & new customer acquisition
+  Product reviews & sentiment analysis
+
+3.Inventory & Order Management
+  Stock level monitoring & restocking alerts
+  Order fulfillment status & returns tracking
+  Supplier performance analysis
+
+4.Profitability & Cost Analysis
+  Revenue vs. expenses breakdown
+  Advertising spend & ROI evaluation
+  Profit margins per product/category
+
+5.Competitive Analysis
+  Pricing trends compared to competitors
+  Best-selling products & market trends
+  Keyword performance & ad optimization
+
+Dashboard Interaction <a href="https://github.com/Gowtham-Rajavel/Amazon_Sasles_Dashboard-Power-BI-/blob/main/PROJECT_1.pbix">View DAshboard</a>
