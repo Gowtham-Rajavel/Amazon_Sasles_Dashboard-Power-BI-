@@ -31,4 +31,11 @@ The objective of this project is to develop a comprehensive and interactive Amaz
   Best-selling products & market trends
   Keyword performance & ad optimization
 
-Dashboard Interaction <a href="https://github.com/Gowtham-Rajavel/Amazon_Sasles_Dashboard-Power-BI-/blob/main/PROJECT_1.pbix">View DAshboard</a>
+Dashboard Interaction <a href="https://github.com/Gowtham-Rajavel/Amazon_Sasles_Dashboard-Power-BI-/blob/main/PROJECT_1.pbix">View Dashboard</a>
+
+## Benefits
+✔ Real-time insights – Helps in identifying top-selling products and market trends
+✔ Better inventory control – Reduces stockouts and overstocking issues
+✔ Enhanced profitability – Optimizes pricing and marketing strategies
+
+Dashboard Image <a href="https://github.com/Gowtham-Rajavel/Amazon_Sasles_Dashboard-Power-BI-/blob/main/Screenshot%202025-02-22%20180159.png">View Dashboard Image</a>
