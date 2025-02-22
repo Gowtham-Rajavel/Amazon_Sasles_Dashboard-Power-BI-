@@ -38,4 +38,5 @@ Dashboard Interaction <a href="https://github.com/Gowtham-Rajavel/Amazon_Sasles_
 ✔ Better inventory control – Reduces stockouts and overstocking issues
 ✔ Enhanced profitability – Optimizes pricing and marketing strategies
 
-Dashboard Image <a href="https://github.com/Gowtham-Rajavel/Amazon_Sasles_Dashboard-Power-BI-/blob/main/Screenshot%202025-02-22%20180159.png">View Dashboard Image</a>
+## Dashboard Image 
+https://github.com/Gowtham-Rajavel/Amazon_Sasles_Dashboard-Power-BI-/blob/main/Screenshot%202025-02-22%20180159.png
