@@ -39,4 +39,5 @@ Dashboard Interaction <a href="https://github.com/Gowtham-Rajavel/Amazon_Sasles_
 ✔ Enhanced profitability – Optimizes pricing and marketing strategies
 
 ## Dashboard Image 
-https://github.com/Gowtham-Rajavel/Amazon_Sasles_Dashboard-Power-BI-/blob/main/Screenshot%202025-02-22%20180159.png
+![Screenshot 2025-02-22 180159](https://github.com/user-attachments/assets/f9997ba6-5ec8-42bc-874f-61a38dd5f16c)
+
